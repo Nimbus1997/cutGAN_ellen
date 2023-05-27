@@ -1,4 +1,8 @@
+# Ellen modified version of CUT GAN   
+* Date: 2023.05.27  
+* ✨✨only modity it in MIV4  
 
+---
 
 # Contrastive Unpaired Translation (CUT)
 
